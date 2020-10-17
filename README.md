@@ -13,3 +13,4 @@ Being a python developer I don't have any idea of javascript. So I used Brython 
 - Lyrics API: Which returns the results
 
 ## Here is the quick GIF if live demo fails to perform due to slow API!
+![preview](./preview.gif)
