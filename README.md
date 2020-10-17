@@ -1,6 +1,6 @@
 # IEEEMAITSongs
 
-This is a very basic approch to get the lyrics of the song provided the artist name and title of the song. Though I was not able accomplish all the task cecause of shortage of time, but I had to show whatever I have done!
+This is a very basic approch to get the lyrics of the song provided the artist name and title of the song. Though I was not able accomplish all the task because of shortage of time, but atleast I had to show whatever I have done and how my soluton still works good!
 
 Link: [Click me!](https://kaustubhgupta.github.io/IEEEMAITSongs/)
 
@@ -14,3 +14,6 @@ Being a python developer I don't have any idea of javascript. So I used Brython 
 
 ## Here is the quick GIF if live demo fails to perform due to slow API!
 ![preview](./preview.gif)
+
+## How to use?
+Simply go to the link!
